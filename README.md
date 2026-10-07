@@ -1,3 +1,5 @@
+[![NCB](https://img.shields.io/badge/DOI-10.1038%2Fs41589--026--02312--z-blue.svg)](https://doi.org/10.1038/s41589-026-02312-z)
+
 ## DDRi collab AZ-IGI (UCSF)
 
 ### Notebooks
@@ -120,3 +122,6 @@ A549_PRDX1KO__CRISPRi_v3__DNAPKi__rep1_R1.fastq.gz
         ├── A549_PRDX1KO__CRISPRi_v3__vehicle__rep3_R2.fastq.gz
 
 ``` -->
+
+## Citation
+> O’Loughlin, T.A., Arab, A., et al. **Chemogenomic maps reveal a PRDX1-dependent iron–damage axis in the DNA damage response.** _Nat Chem Biol_ (2026). https://doi.org/10.1038/s41589-026-02312-z
